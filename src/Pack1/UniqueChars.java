@@ -3,6 +3,7 @@ package Pack1;
 /**
  * Created by Mohib on 1/8/2020.
  */
+//A comment for Git
 class UniChar{
     public static boolean isUniqueChars(String str){
         if(str.length()>128) return false;
