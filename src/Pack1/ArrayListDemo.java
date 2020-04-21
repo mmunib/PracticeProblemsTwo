@@ -4,6 +4,7 @@ import java.util.Collections;
 /**
  * Created by Mohib on 1/3/2020.
  */
+//A new comment
 public class ArrayListDemo {
     public static void main(String args[]){
         ArrayList<String> cars=new ArrayList<String>();
